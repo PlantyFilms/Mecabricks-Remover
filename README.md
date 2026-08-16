@@ -5,5 +5,5 @@ Removes Mecabricks files (e.g. nodes, materials, & textures) from your Blend fil
 
 For more, see here: https://mecabricks.com/en/forum/topic/59017 (because the only other place it's available in is a fourm post)
 
-<img width="863" height="762" alt="Screenshot 2026-08-16 150050" src="https://github.com/user-attachments/assets/2465cfc4-3066-43bf-a88d-bb2e4e459ce9" />
+<img width="863" height="762" alt="Screenshot 2026-08-16 150050" src="https://github.com/user-attachments/assets/da79a683-4d93-4c84-8fd5-95678b2a1dfd" />
 
