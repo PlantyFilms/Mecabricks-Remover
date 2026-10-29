@@ -1,7 +1,7 @@
 bl_info = {
     "name": "MB Remover - Planty",
     "author": "Planty Films",
-    "version": (1, 0, 0),
+    "version": (1, 0, 1),
     "blender": (2, 8, 0),
     "description": "A solution for clearing Mecabricks files out of your Blend files.",    
     "category": "Materials",
@@ -154,7 +154,7 @@ class MBRemover(bpy.types.Panel):
     bl_category = "Mecabricks Remover"
     
     bl_label = "MB Remover"
-    bl_idname = "MB_Remover"
+    bl_idname = "MB_PT_Remover"
     
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'
